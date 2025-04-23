@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A revolução das inteligências artificiais</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #1e293b;
+      line-height: 1.6;
+      padding: 2rem;
+    }
+    header {
+      background: linear-gradient(90deg, #0ea5e9, #6366f1);
+      padding: 2rem;
+      border-radius: 1rem;
+      margin-bottom: 2rem;
+      text-align: center;
+      color: #fff;
+    }
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.8rem;
+    }
+    article {
+      max-width: 800px;
+      margin: auto;
+      background-color: #f8fafc;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+    h2 {
+      margin-top: 1.5rem;
+      color: #0f172a;
+    }
+    p {
+      margin-top: 1rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      color: #64748b;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>A revolução das inteligências artificiais</h1>
+  </header>
+  <article>
+    <p>A tecnologia alcançou um novo patamar. Diante disso, hoje, vivemos o cenário mais próximo de uma terceira revolução industrial. Seria essa a revolução das inteligências artificiais? A resposta para essa pergunta se baseia na crescente popularização das IA's, agora capazes de fazer não somente textos escritos, como PDF's, E-books e redações, mas também imagens e vídeos.</p>
+
+    <p>Observa-se, na internet a popularização de prompts. Tais como o que viralizou recentemente com a trend Ghibli. Após a Open Ai abrir as portas para geração de imagens no ChatGPT, provavelmente a IA mais influente da atualidade, diversas pessoas começaram a transformar fotos pessoais no estilo de desenho do famoso Studio Ghibli.</p>
+
+    <p>O excesso de prompts enviados ao ChatGPT gerou um gasto significativo, chegando a consumir energia suficiente para abastecer sete mil residências brasileiras. Essa quantidade equivale ao gasto diário de uma cidade, como Barbosa Ferraz, localizada no Paraná. Sendo assim, apenas esta ferramenta oferecida pela Open Ai é capaz de consumir 40 Mega Watt's (MW) por hora.</p>
+
+    <p>Desta maneira, é evidente que medidas sustentáveis devem ser tomadas, a fim de reduzir os impactos ambientais. No entanto, além disso, uma forma de contribuir para diminuir esse impacto é buscar por meios físicos para entretenimento, abandonando um pouco as telas e promovendo um momento de lazer. Ao invés de ficar horas em exposição a aparelhos eletrônicos, tente fazer seus próprios desenhos. Adotar esta prática, não somente resulta em uma melhora motora e mental, mas contribui de maneira significativa na valorização da arte. A ausência desse ato tem prejudicado o desenvolvimento e valorização dos artistas que disponibilizam sua arte virtualmente, tornando-a de domínio público e engessando a busca pela criatividade autônoma, como o exemplo do Studio Ghibli.</p>
+  </article>
+  <footer>
+    <p>&copy; 2025 - Vitorr14. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
